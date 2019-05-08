@@ -11,4 +11,4 @@ api_code.py : contains the python code implementation
 1. openapi_spec.json : Open API Specification in JSON
 2. openapi_spec.yaml : Open API Specification in YAML
 <br>
-'API Demo Screenshots' : Word Document - contains screenshots of running the API on Local Server (using Insomnia REST client)
+'API Demo Screenshots' : PDF Document - contains screenshots of running the API on Local Server (using Insomnia REST client)
